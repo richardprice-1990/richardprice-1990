@@ -104,7 +104,7 @@
 | **Security Implementation** | Auth, authz, and best practices | Because "hunter2" isn’t a secure password |
 | **AI Integration** | ML models & LLM applications | Because I want to be on the winning side when the robots take over |
 | **Blockchain Development** | Smart contracts & Web3 apps | Because even cryptobros deserve love |
-| **Problem Solving** | Breaking things down & building better | Because "it can’t be done" sounds like a dare |
+| **Problem Solving** | Breaking things down & building better | Because "it can’t be done" sounds like a challenge |
 
 ## 📫 Get In Touch (For Engineering That's Not Just Good... It's Real)
 
