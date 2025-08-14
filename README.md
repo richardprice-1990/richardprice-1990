@@ -1,45 +1,16 @@
 # 👨‍💻 Richard Price
 
 <div align="center">
-  <div style="position: relative; overflow: hidden; padding: 60px 0; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 20px; margin: 20px 0;">
-    <!-- Floating tech icons -->
-    <div style="position: absolute; top: 20px; left: 20px; width: 40px; height: 40px; background: rgba(255,255,255,0.1); border-radius: 50%; animation: float 6s ease-in-out infinite; backdrop-filter: blur(10px);"></div>
-    <div style="position: absolute; top: 40px; right: 30px; width: 30px; height: 30px; background: rgba(255,255,255,0.15); border-radius: 50%; animation: float 8s ease-in-out infinite 2s; backdrop-filter: blur(10px);"></div>
-    <div style="position: absolute; bottom: 30px; left: 40px; width: 25px; height: 25px; background: rgba(255,255,255,0.1); border-radius: 50%; animation: float 7s ease-in-out infinite 4s; backdrop-filter: blur(10px);"></div>
-    
-    <!-- Animated typing with glow effect -->
-    <div style="position: relative; z-index: 2;">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1500&color=FFFFFF&center=true&vCenter=true&width=700&height=60&lines=Software+Engineer;I+Like+To+Make+Stuff;Sometimes+It+Works;Sometimes+It+Doesn't;But+It's+Always+Fun;Building+The+Future+One+Line+At+A+Time" alt="Typing SVG" style="filter: drop-shadow(0 0 20px rgba(255,255,255,0.3));" />
-    </div>
-    
-    <!-- Animated underline -->
-    <div style="width: 200px; height: 3px; background: linear-gradient(90deg, transparent, #ffffff, transparent); margin: 25px auto; border-radius: 2px; animation: pulse 3s ease-in-out infinite; box-shadow: 0 0 20px rgba(255,255,255,0.5);"></div>
-    
-    <!-- Floating tech badges -->
-    <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin-top: 20px;">
-      <div style="padding: 8px 16px; background: rgba(255,255,255,0.2); color: white; border-radius: 20px; font-size: 0.9rem; font-weight: 500; backdrop-filter: blur(10px); border: 1px solid rgba(255,255,255,0.3); animation: float 5s ease-in-out infinite 1s;">🚀 Full-Stack</div>
-      <div style="padding: 8px 16px; background: rgba(255,255,255,0.2); color: white; border-radius: 20px; font-size: 0.9rem; font-weight: 500; backdrop-filter: blur(10px); border: 1px solid rgba(255,255,255,0.3); animation: float 5s ease-in-out infinite 3s;">⚡ Performance</div>
-      <div style="padding: 8px 16px; background: rgba(255,255,255,0.2); color: white; border-radius: 20px; font-size: 0.9rem; font-weight: 500; backdrop-filter: blur(10px); border: 1px solid rgba(255,255,255,0.3); animation: float 5s ease-in-out infinite 5s;">🎯 Architecture</div>
-    </div>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1500&color=6366F1&center=true&vCenter=true&width=700&height=60&lines=Software+Engineer;I+Like+To+Make+Stuff;Sometimes+It+Works;Sometimes+It+Doesn't;But+It's+Always+Fun;Building+The+Future+One+Line+At+A+Time" alt="Typing SVG" />
+  
+  <div style="width: 120px; height: 4px; background: linear-gradient(90deg, #6366F1, #8B5CF6, #EC4899); margin: 20px auto; border-radius: 2px;"></div>
+  
+  <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin: 20px 0;">
+    <span style="padding: 8px 16px; background: #6366F1; color: white; border-radius: 20px; font-size: 0.9rem; font-weight: 500;">🚀 Full-Stack</span>
+    <span style="padding: 8px 16px; background: #8B5CF6; color: white; border-radius: 20px; font-size: 0.9rem; font-weight: 500;">⚡ Performance</span>
+    <span style="padding: 8px 16px; background: #EC4899; color: white; border-radius: 20px; font-size: 0.9rem; font-weight: 500;">🎯 Architecture</span>
   </div>
 </div>
-
-<style>
-@keyframes float {
-  0%, 100% { transform: translateY(0px) rotate(0deg); }
-  50% { transform: translateY(-15px) rotate(180deg); }
-}
-
-@keyframes pulse {
-  0%, 100% { opacity: 0.5; transform: scaleX(0.8); }
-  50% { opacity: 1; transform: scaleX(1.2); }
-}
-
-@keyframes glow {
-  0%, 100% { box-shadow: 0 0 20px rgba(255,255,255,0.3); }
-  50% { box-shadow: 0 0 30px rgba(255,255,255,0.6); }
-}
-</style>
 
 ---
 
