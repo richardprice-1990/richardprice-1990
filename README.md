@@ -1,14 +1,15 @@
-# 👨‍💻 Richard Price
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1500&color=6366F1&center=true&vCenter=true&width=700&height=60&lines=Software+Engineer;I+Like+To+Make+Stuff;Sometimes+It+Works;Sometimes+It+Doesn't;But+It's+Always+Fun;Building+The+Future+One+Line+At+A+Time" alt="Typing SVG" />
-  
-  <div style="width: 120px; height: 4px; background: linear-gradient(90deg, #6366F1, #8B5CF6, #EC4899); margin: 20px auto; border-radius: 2px;"></div>
-  
-  <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin: 20px 0;">
-    <span style="padding: 8px 16px; background: #6366F1; color: white; border-radius: 20px; font-size: 0.9rem; font-weight: 500;">🚀 Full-Stack</span>
-    <span style="padding: 8px 16px; background: #8B5CF6; color: white; border-radius: 20px; font-size: 0.9rem; font-weight: 500;">⚡ Performance</span>
-    <span style="padding: 8px 16px; background: #EC4899; color: white; border-radius: 20px; font-size: 0.9rem; font-weight: 500;">🎯 Architecture</span>
+  <div style="background: linear-gradient(135deg, #1e293b 0%, #0f172a 100%); padding: 60px 40px; border-radius: 20px; margin: 30px 0; border: 2px solid #3b82f6;">
+    <h1 style="color: #ffffff; font-size: 4rem; font-weight: bold; margin: 0; font-family: monospace; text-shadow: 0 4px 8px rgba(0,0,0,0.3);">
+      RICHARD PRICE
+    </h1>
+    <div style="width: 100px; height: 3px; background: linear-gradient(90deg, #3b82f6, #8b5cf6, #ec4899); margin: 20px auto; border-radius: 2px;"></div>
+    <p style="color: #e2e8f0; font-size: 1.5rem; margin: 15px 0 0 0; font-weight: 500;">
+      Software Engineer
+    </p>
+    <p style="color: #94a3b8; font-size: 1.1rem; margin: 20px 0 0 0; font-style: italic;">
+      I like to make stuff
+    </p>
   </div>
 </div>
 
