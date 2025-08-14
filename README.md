@@ -1,8 +1,8 @@
 <div align="center">
   <div style="background: linear-gradient(135deg, #1e293b 0%, #0f172a 100%); padding: 60px 40px; border-radius: 20px; margin: 30px 0; border: 2px solid #3b82f6;">
-    <h1 style="color: #ffffff; font-size: 4rem; font-weight: bold; margin: 0; font-family: monospace; text-shadow: 0 4px 8px rgba(0,0,0,0.3);">
-      RICHARD PRICE
-    </h1>
+          <h1 style="color: #ffffff; font-size: 4.5rem; font-weight: 100; margin: 0; font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; text-shadow: 0 0 30px rgba(59, 130, 246, 0.5), 0 4px 8px rgba(0,0,0,0.3); letter-spacing: -0.02em; line-height: 1;">
+        Richard Price
+      </h1>
     <div style="width: 100px; height: 3px; background: linear-gradient(90deg, #3b82f6, #8b5cf6, #ec4899); margin: 20px auto; border-radius: 2px;"></div>
     <p style="color: #e2e8f0; font-size: 1.5rem; margin: 15px 0 0 0; font-weight: 500;">
       Software Engineer
@@ -97,36 +97,29 @@
 
 ## 🎯 What I Actually Do
 
-| Thing | Description | Why? |
-|-------|-------------|------|
-| **Full-Stack Web Apps** | Complete applications from database to UI | Because the world needs better software |
-| **REST & GraphQL APIs** | Backend services that actually work | Because frontend devs need something to call |
-| **Mobile Development** | Cross-platform apps with Flutter | Because mobile is where users live |
-| **Web Scraping & Automation** | Scripts that do boring stuff for you | Because life's too short for repetitive tasks |
-| **Database Design** | Schema design, optimization, and migrations | Because data is the foundation of everything |
-| **DevOps & CI/CD** | Automated testing, building, and deployment | Because manual deployments are for masochists |
-| **Performance Optimization** | Making things faster and more efficient | Because slow software is frustrating software |
-| **Testing & Quality** | Unit tests, integration tests, E2E tests | Because bugs in production are embarrassing |
-| **Container Orchestration** | Kubernetes deployments and management | Because scaling should be automated |
-| **Monitoring & Observability** | Full-stack monitoring and alerting | Because you can't fix what you can't see |
-| **Security Implementation** | Authentication, authorization, and security | Because security isn't optional |
-| **AI Integration** | ML models and LLM applications | Because AI is the future |
-| **Blockchain Development** | Smart contracts and Web3 applications | Because the future is decentralized |
+| 🚀 **Skill** | 📝 **Description** | 💭 **Why?** |
+|:---|:---|:---|
+| **Full-Stack Web Apps** | Complete applications from database to UI | Because your "MVP" looks like it was built by a drunk raccoon |
+| **REST & GraphQL APIs** | Backend services that actually work | Because frontend devs think "API" is a type of coffee |
+| **Mobile Development** | Cross-platform apps with Flutter | Because Gen Z don't know what a computer is |
+| **Web Scraping & Automation** | Scripts that do boring stuff for you | Because I'm not your personal button-clicking monkey |
+| **Database Design** | Schema design, optimization, and migrations | Because your Excel spreadsheet approach is giving me PTSD |
+| **DevOps & CI/CD** | Automated testing, building, and deployment | Because "urgent" deployments at 3 AM are how villains are born |
+| **Performance Optimization** | Making things faster and more efficient | Because your app loads slower than my grandma on dial-up |
+| **Testing & Quality** | Unit tests, integration tests, E2E tests | Because I've been told "trust me" right before an outage far too many times |
+| **Container Orchestration** | Kubernetes deployments and management | Because you don't need kubernetes, but I'll happily take your money if you think you do |
+| **Monitoring & Observability** | Full-stack monitoring and alerting | Because finding out about downtime from Twitter is like finding out you're fired from LinkedIn |
+| **Security Implementation** | Authentication, authorization, and security | Because "hunter2" is not a secure password |
+| **AI Integration** | ML models and LLM applications | Because I want to be on the winning side when the robots take over |
+| **Blockchain Development** | Smart contracts and Web3 applications | Because cryptobros need love too |
 
 ## 📫 Get In Touch (If You Dare)
 
-<div align="center">
-  <a href="mailto:hello@richard.dev">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  
+<div align="center">  
   <a href="https://linkedin.com/in/richard">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  
-  <a href="https://richard.dev">
-    <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
-  </a>
+
 </div>
 
 ---
