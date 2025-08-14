@@ -1,23 +1,15 @@
-<div align="center">
-  <div style="background: linear-gradient(135deg, #1e293b 0%, #0f172a 100%); padding: 60px 40px; border-radius: 20px; margin: 30px 0; border: 2px solid #3b82f6;">
-          <h1 style="color: #ffffff; font-size: 4.5rem; font-weight: 100; margin: 0; font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; text-shadow: 0 0 30px rgba(59, 130, 246, 0.5), 0 4px 8px rgba(0,0,0,0.3); letter-spacing: -0.02em; line-height: 1;">
-        Richard Price
-      </h1>
-    <div style="width: 100px; height: 3px; background: linear-gradient(90deg, #3b82f6, #8b5cf6, #ec4899); margin: 20px auto; border-radius: 2px;"></div>
-    <p style="color: #e2e8f0; font-size: 1.5rem; margin: 15px 0 0 0; font-weight: 500;">
-      Software Engineer
-    </p>
-    <p style="color: #94a3b8; font-size: 1.1rem; margin: 20px 0 0 0; font-style: italic;">
-      I like to make stuff
-    </p>
-  </div>
-</div>
+
+# 🚀 Richard Price
+
+### 🎯 *I like to make stuff* 🎯
 
 ---
+
 
 ## 🛠️ Tech Stack
 
 ### Languages & Frameworks
+
 [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![SvelteKit](https://img.shields.io/badge/-SvelteKit-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)](https://kit.svelte.dev/)
@@ -99,19 +91,20 @@
 
 | 🚀 **Skill** | 📝 **Description** | 💭 **Why?** |
 |:---|:---|:---|
-| **Full-Stack Web Apps** | Complete applications from database to UI | Because your "MVP" looks like it was built by a drunk raccoon |
-| **REST & GraphQL APIs** | Backend services that actually work | Because frontend devs think "API" is a type of coffee |
-| **Mobile Development** | Cross-platform apps with Flutter | Because Gen Z don't know what a computer is |
-| **Web Scraping & Automation** | Scripts that do boring stuff for you | Because I'm not your personal button-clicking monkey |
-| **Database Design** | Schema design, optimization, and migrations | Because your Excel spreadsheet approach is giving me PTSD |
-| **DevOps & CI/CD** | Automated testing, building, and deployment | Because "urgent" deployments at 3 AM are how villains are born |
-| **Performance Optimization** | Making things faster and more efficient | Because your app loads slower than my grandma on dial-up |
-| **Testing & Quality** | Unit tests, integration tests, E2E tests | Because I've been told "trust me" right before an outage far too many times |
-| **Container Orchestration** | Kubernetes deployments and management | Because you don't need kubernetes, but I'll happily take your money if you think you do |
-| **Monitoring & Observability** | Full-stack monitoring and alerting | Because finding out about downtime from Twitter is like finding out you're fired from LinkedIn |
-| **Security Implementation** | Authentication, authorization, and security | Because "hunter2" is not a secure password |
-| **AI Integration** | ML models and LLM applications | Because I want to be on the winning side when the robots take over |
-| **Blockchain Development** | Smart contracts and Web3 applications | Because cryptobros need love too |
+| **Full-Stack Web Apps** | Complete apps from DB to UI | Because your "MVP" looks like it was built by a drunk raccoon |
+| **REST & GraphQL APIs** | Backend services that actually work | Because frontend devs still think "API" is a coffee order |
+| **Mobile Development** | Cross-platform apps with Flutter | Because Gen Z don’t know what a computer is |
+| **Web Scraping & Automation** | Scripts that do boring stuff for you | Because I’m not your button-clicking monkey |
+| **Database Design** | Schema design, optimization, migrations | Because your Excel “database” gives me PTSD |
+| **DevOps & CI/CD** | Automated testing, building, deployment | Because "urgent" 3 AM deploys are how villains are born |
+| **Performance Optimization** | Making things fast & efficient | Because your app makes dial-up look speedy |
+| **Testing & Quality** | Unit, integration, E2E tests | Because I've been told "trust me" right before an outage far too many times  |
+| **Container Orchestration** | Kubernetes deployments & mgmt | Because you don't need kubernetes, but I'll happily take your money if you think you do |
+| **Monitoring & Observability** | Full-stack monitoring & alerting | Because hearing about downtime on Twitter is depressing |
+| **Security Implementation** | Auth, authz, and best practices | Because "hunter2" isn’t a secure password |
+| **AI Integration** | ML models & LLM applications | Because I want to be on the winning side when the robots take over |
+| **Blockchain Development** | Smart contracts & Web3 apps | Because even cryptobros deserve love |
+| **Problem Solving** | Breaking things down & building better | Because "it can’t be done" sounds like a dare |
 
 ## 📫 Get In Touch (For Engineering That's Not Just Good... It's Real)
 
