@@ -1,7 +1,7 @@
 
 # 🚀 Richard Price
 
-### 🎯 *I like to make stuff* 🎯
+### 🤖 *I like to make stuff* 
 
 ---
 
