@@ -116,7 +116,7 @@
 ## 📫 Get In Touch (For Engineering That's Not Just Good... It's Real)
 
 <div align="center">  
-  <a href="https://linkedin.com/in/richard">
+  <a href="https://www.linkedin.com/in/richard-price-14539658/">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
